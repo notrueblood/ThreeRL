@@ -8,15 +8,17 @@
     "start": "next start"
   },
   "dependencies": {
+    "@juggle/resize-observer": "^3.2.0",
+    "@react-three/drei": "^3.8.0",
     "autoprefixer": "^10.2.4",
-    "drei": "^2.2.21",
     "next": "10.0.5",
     "postcss": "^8.2.6",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-three-fiber": "^5.3.18",
+    "react-use-measure": "^2.0.3",
     "tailwindcss": "^2.0.3",
-    "three": "^0.125.2"
+    "three": "0.124.0"
   },
   "devDependencies": {
     "next-transpile-modules": "6.3.0"
